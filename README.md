@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://youtu.be/feFDkcUHA9Y">
-        <img src="https://nabegheha.com/img/pygame_github_nabegheha.jpg" alt="Link to Video">
+        <img src="https://raw.githubusercontent.com/NABEGHEHACOM/FlappyBird/refs/heads/main/pygame_github_nabegheha.jpg" alt="Link to Video">
     </a>
 </p>
 
@@ -10,13 +10,13 @@
     <a href="https://www.pygame.org/wiki/GettingStarted"><strong>Explore PyGame docs »</strong></a>
     <br>
     <br>
-    <a href="https://nabegheha.com/socials/">Social Media</a>
+    <a href="https://nabegheha.com">Social Media</a>
     ·
-    <a href="https://nabegheha.com">Learn Python</a>
+    <a href="https://nabegheha.com/shop/">Learn Python</a>
     ·
     <a href="https://www.youtube.com/c/nabegheha">YouTube Channel</a>
     ·
-    <a href="https://nabegheha.com/blog">Blog</a>
+    <a href="https://nabegheha.com">Blog</a>
 </p>
 
 ## Flappy Bird
